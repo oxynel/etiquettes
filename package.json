@@ -1,0 +1,17 @@
+{
+  "name": "etiquettes",
+  "version": "1.0.0",
+  "description": "Gestion api etiquettes.immo",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc",
+    "watch": "npx tsc --watch"
+  },
+  "author": "Oxynel",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.2"
+  }
+}
