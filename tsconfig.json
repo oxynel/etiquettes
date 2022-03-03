@@ -9,6 +9,6 @@
     "moduleResolution": "node"
   },
   "files": [
-    "./src/ts/app.ts"
+    "./src/app.ts"
   ]
 }
